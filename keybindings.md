@@ -1,7 +1,7 @@
 # Keyboard Manager
 ## Shortcuts
 - `Caps Lock` to `Ctrl (Left)`
-- `Ctrl (Left)` to `\``
+- `Ctrl (Left)` to `` ` ``
 
 ## Shortcuts
 - `Alt (Right)` `Space` to `Win (Left)` for **All Apps**
