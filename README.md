@@ -1,5 +1,5 @@
 # PowerToys (Hotkeys)
-Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [Visual Studio Code](https://scoop.sh/#/apps?q=powertoys).
+Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [PowerToys](https://scoop.sh/#/apps?q=powertoys).
 
 ## Install Visual Studio Code
 ```sh
