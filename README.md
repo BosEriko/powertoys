@@ -8,4 +8,7 @@ scoop install extras/powertoys
 ```
 
 ## Update Keyboard Manager
-Update your keybindings with this [configuration](keybindings.md).
+Enable and update your keybindings with this [configuration](keybindings.md).
+
+## Update PowerToys Run
+Enable and update PowerToys Run with `Search delay (ms)`.
