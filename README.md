@@ -11,4 +11,4 @@ scoop install extras/powertoys
 Enable and update your keybindings with this [configuration](keybindings.md).
 
 ## Update PowerToys Run
-Enable and update PowerToys Run with `Search delay (ms)` set to `0`.
+Enable and update PowerToys Run hotkeys to `Alt (Right)` `Space`.
