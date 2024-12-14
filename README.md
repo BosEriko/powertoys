@@ -9,3 +9,6 @@ scoop install extras/powertoys
 
 ## Update Keyboard Manager
 Enable and update your keybindings with this [configuration](keybindings.md).
+
+## PowerToys Run
+Enable PowerToys Run for quick navigation.
