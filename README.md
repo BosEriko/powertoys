@@ -1,4 +1,4 @@
-# PowerToys (Hotkeys)
+# PowerToys (Keybinds)
 Download [Scoop](https://github.com/BosEriko/scoop) as your package manager then install [PowerToys](https://scoop.sh/#/apps?q=powertoys).
 
 ## Install PowerToys
