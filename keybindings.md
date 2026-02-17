@@ -8,6 +8,10 @@
 - `Alt (Left)` `C` to `Ctrl (Left)` `C` for **All Apps**
 - `Alt (Left)` `V` to `Ctrl (Left)` `V` for **All Apps**
 - `Alt (Left)` `X` to `Ctrl (Left)` `X` for **All Apps**
+- `Ctrl (Left)` `A` to `Alt (Left)` `A` for **All Apps**
+- `Ctrl (Left)` `C` to `Alt (Left)` `C` for **All Apps**
+- `Ctrl (Left)` `V` to `Alt (Left)` `V` for **All Apps**
+- `Ctrl (Left)` `X` to `Alt (Left)` `X` for **All Apps**
 
 ## Shortcuts (Vim Style Movement)
 - `Alt (Right)` `H` to `Left` for **All Apps**
@@ -39,4 +43,5 @@
 - `Alt (Left)` `8` to `Win (Right)` `8` for **All Apps**
 - `Alt (Left)` `9` to `Win (Right)` `9` for **All Apps**
 - `Alt (Left)` `0` to `Win (Right)` `0` for **All Apps**
+
 
