@@ -33,15 +33,16 @@
 - `Win (Left)` `8` to `Alt (Right)` `8` for **All Apps**
 - `Win (Left)` `9` to `Alt (Right)` `9` for **All Apps**
 - `Win (Left)` `0` to `Alt (Right)` `0` for **All Apps**
-- `Alt (Left)` `1` to `Win (Right)` `1` for **All Apps**
-- `Alt (Left)` `2` to `Win (Right)` `2` for **All Apps**
-- `Alt (Left)` `3` to `Win (Right)` `3` for **All Apps**
-- `Alt (Left)` `4` to `Win (Right)` `4` for **All Apps**
-- `Alt (Left)` `5` to `Win (Right)` `5` for **All Apps**
-- `Alt (Left)` `6` to `Win (Right)` `6` for **All Apps**
-- `Alt (Left)` `7` to `Win (Right)` `7` for **All Apps**
-- `Alt (Left)` `8` to `Win (Right)` `8` for **All Apps**
-- `Alt (Left)` `9` to `Win (Right)` `9` for **All Apps**
-- `Alt (Left)` `0` to `Win (Right)` `0` for **All Apps**
+- `Alt (Right)` `1` to `Win (Left)` `1` for **All Apps**
+- `Alt (Right)` `2` to `Win (Left)` `2` for **All Apps**
+- `Alt (Right)` `3` to `Win (Left)` `3` for **All Apps**
+- `Alt (Right)` `4` to `Win (Left)` `4` for **All Apps**
+- `Alt (Right)` `5` to `Win (Left)` `5` for **All Apps**
+- `Alt (Right)` `6` to `Win (Left)` `6` for **All Apps**
+- `Alt (Right)` `7` to `Win (Left)` `7` for **All Apps**
+- `Alt (Right)` `8` to `Win (Left)` `8` for **All Apps**
+- `Alt (Right)` `9` to `Win (Left)` `9` for **All Apps**
+- `Alt (Right)` `0` to `Win (Left)` `0` for **All Apps**
+
 
 
