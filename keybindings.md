@@ -9,12 +9,6 @@
 - `Alt (Left)` `V` to `Ctrl (Left)` `V` for **All Apps**
 - `Alt (Left)` `X` to `Ctrl (Left)` `X` for **All Apps**
 
-## MacOS Style Copy/Paste/Cut/Select (Reverse)
-- `Ctrl (Left)` `A` to `Alt (Left)` `A` for **All Apps**
-- `Ctrl (Left)` `C` to `Alt (Left)` `C` for **All Apps**
-- `Ctrl (Left)` `V` to `Alt (Left)` `V` for **All Apps**
-- `Ctrl (Left)` `X` to `Alt (Left)` `X` for **All Apps**
-
 ## Vim Style Movement
 - `Alt (Right)` `H` to `Left` for **All Apps**
 - `Alt (Right)` `J` to `Down` for **All Apps**
@@ -47,3 +41,4 @@
 - `Alt (Right)` `8` to `Win (Left)` `8` for **All Apps**
 - `Alt (Right)` `9` to `Win (Left)` `9` for **All Apps**
 - `Alt (Right)` `0` to `Win (Left)` `0` for **All Apps**
+
